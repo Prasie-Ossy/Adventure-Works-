@@ -1,0 +1,1 @@
+Adventure Works Sales Analysis reviews sales data for a retailer. It tracks quantity, cost, revenue, profit, and transactions. It analyzes revenue by year, profit by month and weekday, and quarterly results. It evaluates top products, customers, and colors. It assesses pricing, gender, age, and regions. Use data to focus products and target regions.
